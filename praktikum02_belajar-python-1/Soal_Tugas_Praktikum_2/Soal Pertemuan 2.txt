@@ -1,0 +1,6 @@
+1. buat program dengan bahasa python, untuk mencetak nama, nim, kelas dan alamat 
+2. buat seperti no 1 tapi 1 teman kalian
+3. buat program dengan bahasa python, untuk menjumlahkan 2 buah bilangan
+4. buat program dengan bahasa python, untuk mengurangi 2 buah bilangan 
+5. buat program dengan bahasa python, untuk mengalikan 2 buah bilangan
+6. buat program dengan bahasa python, untuk membagi 2 buah bilangan
