@@ -42,15 +42,15 @@ elif pilihan == '2':
 
 # if, elif dan else
 if (celcius < 15) :
-    print("2.3. Berdasarkan Pengecekan Suhu Yang Di Inputkan Kondisi Suhu Saat Ini Adalah, Sangat Dingin")
+    print("2.2. Berdasarkan Pengecekan Suhu Yang Di Inputkan Kondisi Suhu Saat Ini Adalah, Sangat Dingin")
 elif(celcius < 25) :
-    print("2.3. Berdasarkan Pengecekan Suhu Yang Di Inputkan Kondisi Suhu Saat Ini Adalah, Dingin")
+    print("2.2. Berdasarkan Pengecekan Suhu Yang Di Inputkan Kondisi Suhu Saat Ini Adalah, Dingin")
 elif(celcius < 36) :
-    print("2.3. Berdasarkan Pengecekan Suhu Yang Di Inputkan Kondisi Suhu Saat Ini Adalah, Normal")
+    print("2.2. Berdasarkan Pengecekan Suhu Yang Di Inputkan Kondisi Suhu Saat Ini Adalah, Normal")
 elif(celcius < 46) :
-    print("2.3. Berdasarkan Pengecekan Suhu Yang Di Inputkan Kondisi Suhu Saat Ini Adalah, Panas") 
+    print("2.2. Berdasarkan Pengecekan Suhu Yang Di Inputkan Kondisi Suhu Saat Ini Adalah, Panas") 
 elif(celcius < 60 or celcius > 60) :
-    print("2.3. Berdasarkan Pengecekan Suhu Yang Di Inputkan Kondisi Suhu Saat Ini Adalah, Sangat Panas")
+    print("2.2. Berdasarkan Pengecekan Suhu Yang Di Inputkan Kondisi Suhu Saat Ini Adalah, Sangat Panas")
 else :
     print("Isi Suhu Dahulu !!")
     
