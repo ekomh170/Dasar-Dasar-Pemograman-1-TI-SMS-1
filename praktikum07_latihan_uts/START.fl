@@ -1,0 +1,23 @@
+START
+|
+|--- Masukkan Nama Pembeli
+|--- Masukkan No Hp Pembeli
+|--- Pesan Menu Apa? (makanan atau minuman)
+|    |
+|    |--- Jika pesan makanan
+|    |    |--- Tampilkan Menu Makanan
+|    |    |--- Masukkan pesanan
+|    |
+|    |--- Jika pesan minuman
+|    |    |--- Tampilkan Menu Minuman
+|    |    |--- Masukkan pesanan
+|
+|--- Masukkan Jumlah Pesanan
+|--- Hitung Harga Pesanan
+|--- Tampilkan Nama Pembeli
+|--- Tampilkan No Hp Pembeli
+|--- Tampilkan Menu yang di Pesan
+|--- Tampilkan Jumlah pesanan
+|--- Tampilkan Harga yang harus di bayarkan
+|
+END
