@@ -1,4 +1,4 @@
-# Hasil Links PDF :
+# Hasil Links PDF : https://github.com/ekomh170/Dasar-Dasar-Pemograman-1-TI-SMS-1/blob/ry_dev/uts/UTS_Eko%20Muchamad%20Haryono%20Haryono_TI02_0110223079.pdf
 
 print("")
 # 1. Apa yang di maksud dengan variabel dalam Bahasa pemprograman python? Dan berikan contoh pendeklarasian variabel yang benar dan salah (bobot 10) (CPMK01)
@@ -54,8 +54,8 @@ print(kondisi, "= Jenis Tipe Data :", type(kondisi))
 
 # 3. Buatlah Sebuah Flowchart untuk:
 # Jika NIM ganjil : menstransfer uang melalui mobile banking
-# Links Flowchat :
-# Links PDF :
+# Links Flowchat : https://github.com/ekomh170/Dasar-Dasar-Pemograman-1-TI-SMS-1/blob/ry_dev/uts/Flowchart%20Soal%20Nomer%203%20DDP%20UTS%20-%20Eko.vsdx
+# Links PDF : https://github.com/ekomh170/Dasar-Dasar-Pemograman-1-TI-SMS-1/blob/ry_dev/uts/UTS_Eko%20Muchamad%20Haryono%20Haryono_TI02_0110223079.pdf
 
 # ################################################################################################
 
