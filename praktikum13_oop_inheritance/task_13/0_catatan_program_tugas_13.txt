@@ -1,0 +1,26 @@
+#  Tugas Punya : Eko Muchamad Haryono
+#  NIM : 0110223079
+#  TI - 02
+#  Teknik Informatika (TI)
+#  Dasar - Dasar Pemograman (DDP)
+#  Tema : Kerjakan Soal Tugas Pertemuan - 13
+
+# File Pengumpulan Tugas Pertemuan 13 Ada 5 File Python :
+
+1. 0_main_project.py
+2. animals_superclass.py
+3. badak_subclass_1.py
+4. ikan_subclass_2.py
+5. ular_subclass_3.py
+
+
+# 1 Parent Kelas Yang Di Maksud :
+1. 0_main_project.py
+
+
+# 3 Kelas Child Yang Di Maksud : 
+1. badak_subclass_1.py
+2. ikan_subclass_2.py
+3. ular_subclass_3.py
+
+# File Pemanggilan Seluruh File Ada Di File -> 0_main_project.py
